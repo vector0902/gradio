@@ -12,5 +12,6 @@ def sepia(input_img):
     return sepia_img
 
 demo = gr.Interface(sepia, gr.Image(), "image", api_name="predict")
+
 if __name__ == "__main__":
     demo.launch()

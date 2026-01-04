@@ -1,3 +1,5 @@
+#!/usr/bin/env gradio
+
 import gradio as gr
 
 
@@ -6,6 +8,7 @@ def greet(name):
 
 
 demo = gr.Interface(fn=greet, inputs="textbox", outputs="textbox", api_name="predict")
+# demo = gr.Interface(fn=greet, inputs="textbox", outputs="textbox")
 
 if __name__ == "__main__":
     demo.launch()
