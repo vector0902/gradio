@@ -12,7 +12,7 @@ with gr.Blocks() as demo:
 
     def bot(history):
         bot_message = random.choice(["How are you?", "I love you", "I'm very hungry"])
-        time.sleep(2)
+        time.sleep(1)
         history.append({"role": "assistant", "content": bot_message})
         return history
 

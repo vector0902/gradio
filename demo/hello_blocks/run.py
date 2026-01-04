@@ -1,3 +1,5 @@
+#!/usr/bin/env gradio
+
 import gradio as gr
 
 
