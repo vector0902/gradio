@@ -1,9 +1,11 @@
+#!/usr/bin/env gradio
+
 import gradio as gr
 
 def greet(name, is_morning, temperature):
     salutation = "Good morning" if is_morning else "Good evening"
-    greeting = f"{salutation} {name}. It is {temperature} degrees today"
     celsius = (temperature - 32) * 5 / 9
+    greeting = f"{salutation} {name}. It is {temperature} degrees F, {celsius} degrees C today"
     return greeting, round(celsius, 2)
 
 demo = gr.Interface(
