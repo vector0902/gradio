@@ -26,6 +26,10 @@
 - [ ] [Chatbot Consecutive](demo/chatbot_consecutive/run.py)
 - [ ] [On Listener Basic](demo/on_listener_basic/run.py)
 - [ ] [On Listener Live](demo/on_listener_live/run.py)
+- [ ] [Rows And Columns](demo/rows_and_columns/run.py)
+- [ ] [Blocks Flipper](demo/blocks_flipper/run.py)
+- [ ] [Walkthrough](demo/walkthrough/run.py)
+- [ ] [Blocks Form](demo/blocks_form/run.py)
 
 
 
@@ -49,8 +53,6 @@
 - [ ] [Blocks Essay](demo/blocks_essay/run.py)
 - [ ] [Blocks Flag](demo/blocks_flag/run.py)
 - [ ] [Blocks Flashcards](demo/blocks_flashcards/run.py)
-- [ ] [Blocks Flipper](demo/blocks_flipper/run.py)
-- [ ] [Blocks Form](demo/blocks_form/run.py)
 - [ ] [Blocks Gpt](demo/blocks_gpt/run.py)
 - [ ] [Blocks Group](demo/blocks_group/run.py)
 - [ ] [Blocks Inputs](demo/blocks_inputs/run.py)
@@ -310,7 +312,6 @@
 - [ ] [Request Ip Headers](demo/request_ip_headers/run.py)
 - [ ] [Reverse Audio](demo/reverse_audio/run.py)
 - [ ] [Reverse Audio 2](demo/reverse_audio_2/run.py)
-- [ ] [Rows And Columns](demo/rows_and_columns/run.py)
 - [ ] [Rt-Detr-Object-Detection](demo/rt-detr-object-detection/run.py)
 - [ ] [Sales Projections](demo/sales_projections/run.py)
 - [ ] [Same-Person-Or-Different](demo/same-person-or-different/run.py)
@@ -398,7 +399,6 @@
 - [ ] [Video Subtitle](demo/video_subtitle/run.py)
 - [ ] [Video Watermark](demo/video_watermark/run.py)
 - [ ] [Visibility Test](demo/visibility_test/run.py)
-- [ ] [Walkthrough](demo/walkthrough/run.py)
 - [ ] [Walkthrough Many](demo/walkthrough_many/run.py)
 - [ ] [Webcam](demo/webcam/run.py)
 - [ ] [Webcam Constraints](demo/webcam_constraints/run.py)
