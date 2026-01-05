@@ -30,6 +30,12 @@
 - [ ] [Blocks Flipper](demo/blocks_flipper/run.py)
 - [ ] [Walkthrough](demo/walkthrough/run.py)
 - [ ] [Blocks Form](demo/blocks_form/run.py)
+- [ ] [Render Split Simple](demo/render_split_simple/run.py)
+- [ ] [Render Split](demo/render_split/run.py)  press enter to see effect
+- [ ] [Render Merge Simple](demo/render_merge_simple/run.py)
+- [ ] [Render Preserve Key](demo/render_preserve_key/run.py)
+- [ ] [Todo List](demo/todo_list/run.py)
+- [ ] [Audio Mixer](demo/audio_mixer/run.py)
 
 
 
@@ -42,7 +48,6 @@
 - [ ] [Audio Component](demo/audio_component/run.py)
 - [ ] [Audio Component Events](demo/audio_component_events/run.py)
 - [ ] [Audio Debugger](demo/audio_debugger/run.py)
-- [ ] [Audio Mixer](demo/audio_mixer/run.py)
 - [ ] [Audio Subtitle](demo/audio_subtitle/run.py)
 - [ ] [Autocomplete](demo/autocomplete/run.py)
 - [ ] [Automatic-Speech-Recognition](demo/automatic-speech-recognition/run.py)
@@ -302,11 +307,7 @@
 - [ ] [Reload Mode](demo/reload_mode/run.py)
 - [ ] [Render Heavy Concurrently](demo/render_heavy_concurrently/run.py)
 - [ ] [Render Merge](demo/render_merge/run.py)
-- [ ] [Render Merge Simple](demo/render_merge_simple/run.py)
-- [ ] [Render Preserve Key](demo/render_preserve_key/run.py)
 - [ ] [Render Queue False](demo/render_queue_false/run.py)
-- [ ] [Render Split](demo/render_split/run.py)
-- [ ] [Render Split Simple](demo/render_split_simple/run.py)
 - [ ] [Render Tests](demo/render_tests/run.py)
 - [ ] [Render Visibility](demo/render_visibility/run.py)
 - [ ] [Request Ip Headers](demo/request_ip_headers/run.py)
@@ -377,7 +378,6 @@
 - [ ] [Timer Simple](demo/timer_simple/run.py)
 - [ ] [Timeseries-Forecasting-With-Prophet](demo/timeseries-forecasting-with-prophet/run.py)
 - [ ] [Titanic Survival](demo/titanic_survival/run.py)
-- [ ] [Todo List](demo/todo_list/run.py)
 - [ ] [Todo List Js](demo/todo_list_js/run.py)
 - [ ] [Translation](demo/translation/run.py)
 - [ ] [Unispeech-Speaker-Verification](demo/unispeech-speaker-verification/run.py)
