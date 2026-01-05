@@ -11,7 +11,8 @@ with gr.Blocks() as demo:
         turn = "O" if turn == "X" else "X"
         return board, turn
 
-    board.select(place, [board, turn], [board, turn], show_progress="hidden")
+    # board.select(place, [board, turn], [board, turn], show_progress="hidden")
+    board.select(place, [board, turn], [board, turn])
 
 if __name__ == "__main__":
     demo.launch()

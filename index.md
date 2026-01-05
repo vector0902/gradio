@@ -37,6 +37,11 @@
 - [ ] [Todo List](demo/todo_list/run.py)
 - [ ] [Audio Mixer](demo/audio_mixer/run.py)
 
+- [ ] [Calculator Blocks](demo/calculator_blocks/run.py)
+- [ ] [Timer Simple](demo/timer_simple/run.py)
+- [ ] [Tictactoe](demo/tictactoe/run.py)
+- [ ] [Validator Simple](demo/validator_simple/run.py)
+
 
 
 
@@ -84,7 +89,6 @@
 - [ ] [Browser State Component](demo/browser_state_component/run.py)
 - [ ] [Browserstate](demo/browserstate/run.py)
 - [ ] [Button Component](demo/button_component/run.py)
-- [ ] [Calculator Blocks](demo/calculator_blocks/run.py)
 - [ ] [Calculator Blocks Cached](demo/calculator_blocks_cached/run.py)
 - [ ] [Cancel Events](demo/cancel_events/run.py)
 - [ ] [Change Vs Input](demo/change_vs_input/run.py)
@@ -373,9 +377,7 @@
 - [ ] [Theme New Step 2](demo/theme_new_step_2/run.py)
 - [ ] [Theme New Step 3](demo/theme_new_step_3/run.py)
 - [ ] [Theme Soft](demo/theme_soft/run.py)
-- [ ] [Tictactoe](demo/tictactoe/run.py)
 - [ ] [Timer](demo/timer/run.py)
-- [ ] [Timer Simple](demo/timer_simple/run.py)
 - [ ] [Timeseries-Forecasting-With-Prophet](demo/timeseries-forecasting-with-prophet/run.py)
 - [ ] [Titanic Survival](demo/titanic_survival/run.py)
 - [ ] [Todo List Js](demo/todo_list_js/run.py)
@@ -389,7 +391,6 @@
 - [ ] [Uploadbutton Component](demo/uploadbutton_component/run.py)
 - [ ] [Validator Chatinterface](demo/validator_chatinterface/run.py)
 - [ ] [Validator Interface](demo/validator_interface/run.py)
-- [ ] [Validator Simple](demo/validator_simple/run.py)
 - [ ] [Validator Test](demo/validator_test/run.py)
 - [ ] [Variable Outputs](demo/variable_outputs/run.py)
 - [ ] [Video Component](demo/video_component/run.py)
