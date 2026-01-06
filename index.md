@@ -48,6 +48,9 @@
 - [ ] [Star Rating Events](demo/star_rating_events/run.py)
 - [ ] [Star Rating Component](demo/star_rating_component/run.py)
 
+- [ ] [Blocks Js Load](demo/blocks_js_load/run.py)
+- [ ] [Blocks Js Methods](demo/blocks_js_methods/run.py)
+
 
 
 - [ ] [Agent Chatbot](demo/agent_chatbot/run.py)
@@ -72,8 +75,6 @@
 - [ ] [Blocks Group](demo/blocks_group/run.py)
 - [ ] [Blocks Inputs](demo/blocks_inputs/run.py)
 - [ ] [Blocks Joined](demo/blocks_joined/run.py)
-- [ ] [Blocks Js Load](demo/blocks_js_load/run.py)
-- [ ] [Blocks Js Methods](demo/blocks_js_methods/run.py)
 - [ ] [Blocks Kinematics](demo/blocks_kinematics/run.py)
 - [ ] [Blocks Layout](demo/blocks_layout/run.py)
 - [ ] [Blocks Multiple Event Triggers](demo/blocks_multiple_event_triggers/run.py)
