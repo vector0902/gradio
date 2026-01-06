@@ -62,7 +62,7 @@
 
 - [ ] [Progress Simple](demo/progress_simple/run.py)
 
-
+- [ ] [Diffusers With Batching](demo/diffusers_with_batching/run.py)
 
 
 - [ ] [Agent Chatbot](demo/agent_chatbot/run.py)
@@ -173,7 +173,6 @@
 - [ ] [Dialogue Diarization Demo](demo/dialogue_diarization_demo/run.py)
 - [ ] [Dialogue Mock Diarization](demo/dialogue_mock_diarization/run.py)
 - [ ] [Diff Texts](demo/diff_texts/run.py)
-- [ ] [Diffusers With Batching](demo/diffusers_with_batching/run.py)
 - [ ] [Downloadbutton Component](demo/downloadbutton_component/run.py)
 - [ ] [Draggable Dashboard](demo/draggable_dashboard/run.py)
 - [ ] [Dropdown Component](demo/dropdown_component/run.py)
