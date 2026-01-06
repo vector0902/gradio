@@ -73,11 +73,13 @@
 
 - [file access test - me](demo/file_access/run.py)
 
+
 - [ ] [File Explorer](demo/file_explorer/run.py)
 - [ ] [File Explorer Component](demo/file_explorer_component/run.py)
 - [ ] [File Explorer Component Events](demo/file_explorer_component_events/run.py)
 
 
+- [ ] [Load Openapi Spec](demo/load_openapi_spec/run.py)
 - [ ] [Agent Chatbot](demo/agent_chatbot/run.py)
 - [ ] [All Demos](demo/all_demos/run.py)
 - [ ] [Animeganv2](demo/animeganv2/run.py)
@@ -265,7 +267,6 @@
 - [ ] [Llm Openai](demo/llm_openai/run.py)
 - [ ] [Llm Sambanova](demo/llm_sambanova/run.py)
 - [ ] [Load Model With Token](demo/load_model_with_token/run.py)
-- [ ] [Load Openapi Spec](demo/load_openapi_spec/run.py)
 - [ ] [Load Space](demo/load_space/run.py)
 - [ ] [Login With Huggingface](demo/login_with_huggingface/run.py)
 - [ ] [Loginbutton Component](demo/loginbutton_component/run.py)
