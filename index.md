@@ -60,6 +60,7 @@
 - [ ] [Streaming Filter](demo/streaming_filter/run.py)
 - [ ] [Streaming Filter Unified](demo/streaming_filter_unified/run.py)
 
+- [ ] [Progress Simple](demo/progress_simple/run.py)
 
 
 
@@ -316,7 +317,6 @@
 - [ ] [Plot Guide Zoom Sync](demo/plot_guide_zoom_sync/run.py)
 - [ ] [Progress](demo/progress/run.py)
 - [ ] [Progress Component](demo/progress_component/run.py)
-- [ ] [Progress Simple](demo/progress_simple/run.py)
 - [ ] [Question-Answering](demo/question-answering/run.py)
 - [ ] [Queue Full E2E Test](demo/queue_full_e2e_test/run.py)
 - [ ] [Radio Component](demo/radio_component/run.py)
