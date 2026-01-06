@@ -43,6 +43,9 @@
 - [ ] [Validator Simple](demo/validator_simple/run.py)
 
 - [ ] [Star Rating Simple](demo/star_rating_simple/run.py)
+- [ ] [Star Rating Templates](demo/star_rating_templates/run.py)
+- [ ] [Star Rating Props](demo/star_rating_props/run.py)
+- [ ] [Star Rating Events](demo/star_rating_events/run.py)
 
 
 
@@ -337,9 +340,6 @@
 - [ ] [Spectogram](demo/spectogram/run.py)
 - [ ] [Stable-Diffusion](demo/stable-diffusion/run.py)
 - [ ] [Star Rating Component](demo/star_rating_component/run.py)
-- [ ] [Star Rating Events](demo/star_rating_events/run.py)
-- [ ] [Star Rating Props](demo/star_rating_props/run.py)
-- [ ] [Star Rating Templates](demo/star_rating_templates/run.py)
 - [ ] [State Change](demo/state_change/run.py)
 - [ ] [State Cleanup](demo/state_cleanup/run.py)
 - [ ] [State Component](demo/state_component/run.py)
