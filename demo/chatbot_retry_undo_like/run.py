@@ -31,13 +31,12 @@ def respond(
 
     response = {"role": "assistant", "content": ""}
     # for message in client.chat_completion( # type: ignore
-    for message in client.chat.completions.create( # type: ignore
-        history,
+    for message in client.chat.completions.create(
+        messages=history,
         temperature=0.95,
         top_p=0.9,
         max_tokens=512,
         stream=True,
-        # model="openai/gpt-oss-20b"
         model=model
     ):
         response["content"] += message.choices[0].delta.content or "" if message.choices else ""
