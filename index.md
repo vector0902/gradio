@@ -73,6 +73,13 @@
 
 - [file access test - me](demo/file_access/run.py)
 
+- [ ] [Chatinterface Random Response](demo/chatinterface_random_response/run.py)
+
+- [ ] [Chatbot Streaming](demo/chatbot_streaming/run.py)
+- [ ] [Chatbot Simple](demo/chatbot_simple/run.py)
+- [ ] [Chatbot Multimodal](demo/chatbot_multimodal/run.py)
+
+
 
 - [ ] [File Explorer](demo/file_explorer/run.py)
 - [ ] [File Explorer Component](demo/file_explorer_component/run.py)
@@ -132,12 +139,9 @@
 - [ ] [Chatbot Editable](demo/chatbot_editable/run.py)
 - [ ] [Chatbot Examples](demo/chatbot_examples/run.py)
 - [ ] [Chatbot Feedback](demo/chatbot_feedback/run.py)
-- [ ] [Chatbot Multimodal](demo/chatbot_multimodal/run.py)
 - [ ] [Chatbot Nested Thoughts](demo/chatbot_nested_thoughts/run.py)
 - [ ] [Chatbot Reasoning Tags](demo/chatbot_reasoning_tags/run.py)
 - [ ] [Chatbot Retry Undo Like](demo/chatbot_retry_undo_like/run.py)
-- [ ] [Chatbot Simple](demo/chatbot_simple/run.py)
-- [ ] [Chatbot Streaming](demo/chatbot_streaming/run.py)
 - [ ] [Chatbot Thoughts](demo/chatbot_thoughts/run.py)
 - [ ] [Chatbot With Tools](demo/chatbot_with_tools/run.py)
 - [ ] [Chatinterface Artifacts](demo/chatinterface_artifacts/run.py)
@@ -146,7 +150,6 @@
 - [ ] [Chatinterface Nested Thoughts](demo/chatinterface_nested_thoughts/run.py)
 - [ ] [Chatinterface Options](demo/chatinterface_options/run.py)
 - [ ] [Chatinterface Prefill](demo/chatinterface_prefill/run.py)
-- [ ] [Chatinterface Random Response](demo/chatinterface_random_response/run.py)
 - [ ] [Chatinterface Save History](demo/chatinterface_save_history/run.py)
 - [ ] [Chatinterface Streaming Echo](demo/chatinterface_streaming_echo/run.py)
 - [ ] [Chatinterface System Prompt](demo/chatinterface_system_prompt/run.py)
