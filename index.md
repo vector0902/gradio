@@ -69,6 +69,7 @@
 
 - [ ] [State Cleanup](demo/state_cleanup/run.py)
 
+- [ ] [Theme Soft](demo/theme_soft/run.py)
 
 - [file access test - me](demo/file_access/run.py)
 
@@ -388,7 +389,6 @@
 - [ ] [Theme New Step 1](demo/theme_new_step_1/run.py)
 - [ ] [Theme New Step 2](demo/theme_new_step_2/run.py)
 - [ ] [Theme New Step 3](demo/theme_new_step_3/run.py)
-- [ ] [Theme Soft](demo/theme_soft/run.py)
 - [ ] [Timer](demo/timer/run.py)
 - [ ] [Timeseries-Forecasting-With-Prophet](demo/timeseries-forecasting-with-prophet/run.py)
 - [ ] [Titanic Survival](demo/titanic_survival/run.py)
