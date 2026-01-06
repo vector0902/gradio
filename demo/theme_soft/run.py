@@ -1,6 +1,8 @@
 import gradio as gr
 import time
 
+# https://www.gradio.app/guides/theming-guide
+
 # after theme change, need restart to work
 theme=gr.themes.Soft()
 theme=gr.themes.Base()
