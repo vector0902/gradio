@@ -64,6 +64,17 @@
 
 - [ ] [Diffusers With Batching](demo/diffusers_with_batching/run.py)
 
+- [ ] [Deep Link](demo/deep_link/run.py)
+
+
+
+
+- [ file access test - me ](demo/file_access/run.py)
+
+- [ ] [File Explorer](demo/file_explorer/run.py)
+- [ ] [File Explorer Component](demo/file_explorer_component/run.py)
+- [ ] [File Explorer Component Events](demo/file_explorer_component_events/run.py)
+
 
 - [ ] [Agent Chatbot](demo/agent_chatbot/run.py)
 - [ ] [All Demos](demo/all_demos/run.py)
@@ -166,7 +177,6 @@
 - [ ] [Dataset Component](demo/dataset_component/run.py)
 - [ ] [Datetime Component](demo/datetime_component/run.py)
 - [ ] [Datetimes](demo/datetimes/run.py)
-- [ ] [Deep Link](demo/deep_link/run.py)
 - [ ] [Depth Estimation](demo/depth_estimation/run.py)
 - [ ] [Dia Dialogue Demo](demo/dia_dialogue_demo/run.py)
 - [ ] [Dialogue Component](demo/dialogue_component/run.py)
@@ -186,9 +196,6 @@
 - [ ] [Fake Gan No Input](demo/fake_gan_no_input/run.py)
 - [ ] [File Component](demo/file_component/run.py)
 - [ ] [File Component Events](demo/file_component_events/run.py)
-- [ ] [File Explorer](demo/file_explorer/run.py)
-- [ ] [File Explorer Component](demo/file_explorer_component/run.py)
-- [ ] [File Explorer Component Events](demo/file_explorer_component_events/run.py)
 - [ ] [Filter Records](demo/filter_records/run.py)
 - [ ] [Fraud Detector](demo/fraud_detector/run.py)
 - [ ] [Function Values](demo/function_values/run.py)

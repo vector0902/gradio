@@ -3,7 +3,8 @@ from pathlib import Path
 
 current_file_path = Path(__file__).resolve()
 relative_path = "path/to/file"
-absolute_path = (current_file_path.parent / ".." / ".." / "gradio").resolve()
+# absolute_path = (current_file_path.parent / ".." / ".." / "gradio").resolve()
+absolute_path = "/tmp"
 
 def get_file_content(file):
     if file is None or Path(file).is_dir():
