@@ -67,9 +67,10 @@
 - [ ] [Deep Link](demo/deep_link/run.py)
 
 
+- [ ] [State Cleanup](demo/state_cleanup/run.py)
 
 
-- [ file access test - me ](demo/file_access/run.py)
+- [file access test - me](demo/file_access/run.py)
 
 - [ ] [File Explorer](demo/file_explorer/run.py)
 - [ ] [File Explorer Component](demo/file_explorer_component/run.py)
@@ -356,7 +357,6 @@
 - [ ] [Spectogram](demo/spectogram/run.py)
 - [ ] [Stable-Diffusion](demo/stable-diffusion/run.py)
 - [ ] [State Change](demo/state_change/run.py)
-- [ ] [State Cleanup](demo/state_cleanup/run.py)
 - [ ] [State Component](demo/state_component/run.py)
 - [ ] [Stock Forecast](demo/stock_forecast/run.py)
 - [ ] [Stream Asr](demo/stream_asr/run.py)
