@@ -54,6 +54,15 @@
 - [ ] [English Translator](demo/english_translator/run.py)
 - [ ] [Generate English German](demo/generate_english_german/run.py)
 
+- [ ] [Fake Diffusion](demo/fake_diffusion/run.py)
+
+- [ ] [Streaming Simple](demo/streaming_simple/run.py)
+- [ ] [Streaming Filter](demo/streaming_filter/run.py)
+- [ ] [Streaming Filter Unified](demo/streaming_filter_unified/run.py)
+
+
+
+
 
 - [ ] [Agent Chatbot](demo/agent_chatbot/run.py)
 - [ ] [All Demos](demo/all_demos/run.py)
@@ -172,7 +181,6 @@
 - [ ] [Duplicatebutton Component](demo/duplicatebutton_component/run.py)
 - [ ] [Event Trigger](demo/event_trigger/run.py)
 - [ ] [Examples Component](demo/examples_component/run.py)
-- [ ] [Fake Diffusion](demo/fake_diffusion/run.py)
 - [ ] [Fake Diffusion With Gif](demo/fake_diffusion_with_gif/run.py)
 - [ ] [Fake Gan 2](demo/fake_gan_2/run.py)
 - [ ] [Fake Gan No Input](demo/fake_gan_no_input/run.py)
@@ -350,9 +358,6 @@
 - [ ] [Stream Audio Out](demo/stream_audio_out/run.py)
 - [ ] [Stream Frames](demo/stream_frames/run.py)
 - [ ] [Stream Video Out](demo/stream_video_out/run.py)
-- [ ] [Streaming Filter](demo/streaming_filter/run.py)
-- [ ] [Streaming Filter Unified](demo/streaming_filter_unified/run.py)
-- [ ] [Streaming Simple](demo/streaming_simple/run.py)
 - [ ] [Streaming Wav2Vec](demo/streaming_wav2vec/run.py)
 - [ ] [Stt Or Tts](demo/stt_or_tts/run.py)
 - [ ] [Sub Block Render](demo/sub_block_render/run.py)
