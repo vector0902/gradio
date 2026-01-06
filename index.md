@@ -51,6 +51,8 @@
 - [ ] [Blocks Js Load](demo/blocks_js_load/run.py)
 - [ ] [Blocks Js Methods](demo/blocks_js_methods/run.py)
 
+- [ ] [English Translator](demo/english_translator/run.py)
+- [ ] [Generate English German](demo/generate_english_german/run.py)
 
 
 - [ ] [Agent Chatbot](demo/agent_chatbot/run.py)
@@ -168,7 +170,6 @@
 - [ ] [Dropdown Custom Value](demo/dropdown_custom_value/run.py)
 - [ ] [Dropdown Key Up](demo/dropdown_key_up/run.py)
 - [ ] [Duplicatebutton Component](demo/duplicatebutton_component/run.py)
-- [ ] [English Translator](demo/english_translator/run.py)
 - [ ] [Event Trigger](demo/event_trigger/run.py)
 - [ ] [Examples Component](demo/examples_component/run.py)
 - [ ] [Fake Diffusion](demo/fake_diffusion/run.py)
@@ -186,7 +187,6 @@
 - [ ] [Gallery Component](demo/gallery_component/run.py)
 - [ ] [Gallery Component Events](demo/gallery_component_events/run.py)
 - [ ] [Gallery Selections](demo/gallery_selections/run.py)
-- [ ] [Generate English German](demo/generate_english_german/run.py)
 - [ ] [Generate Tone](demo/generate_tone/run.py)
 - [ ] [Gif Maker](demo/gif_maker/run.py)
 - [ ] [Gpt2 Xl](demo/gpt2_xl/run.py)
