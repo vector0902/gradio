@@ -1,7 +1,23 @@
 from huggingface_hub import InferenceClient
 import gradio as gr
 
-client = InferenceClient()
+# client = InferenceClient()
+
+
+
+# my endpoint:
+url = "http://localhost:4000"
+model = "my-fixed-model"
+key = "anykey"
+
+from openai import OpenAI
+client = OpenAI(
+    base_url=url,
+    api_key=key
+)
+
+
+
 
 def respond(
     prompt: str,
@@ -14,13 +30,15 @@ def respond(
     yield history
 
     response = {"role": "assistant", "content": ""}
-    for message in client.chat_completion( # type: ignore
+    # for message in client.chat_completion( # type: ignore
+    for message in client.chat.completions.create( # type: ignore
         history,
         temperature=0.95,
         top_p=0.9,
         max_tokens=512,
         stream=True,
-        model="openai/gpt-oss-20b"
+        # model="openai/gpt-oss-20b"
+        model=model
     ):
         response["content"] += message.choices[0].delta.content or "" if message.choices else ""
         yield history + [response]
@@ -43,7 +61,8 @@ def handle_like(data: gr.LikeData):
 
 
 with gr.Blocks() as demo:
-    gr.Markdown("# Chat with GPT-OSS 20b 🤗")
+    # gr.Markdown("# Chat with GPT-OSS 20b 🤗")
+    gr.Markdown("# Chat with LLM 🤗")
     chatbot = gr.Chatbot(
         label="Agent",
         avatar_images=(

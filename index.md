@@ -79,6 +79,8 @@
 - [ ] [Chatbot Simple](demo/chatbot_simple/run.py)
 - [ ] [Chatbot Multimodal](demo/chatbot_multimodal/run.py)
 
+- [ ] [Chatbot Retry Undo Like](demo/chatbot_retry_undo_like/run.py)
+
 
 
 - [ ] [File Explorer](demo/file_explorer/run.py)
@@ -141,7 +143,6 @@
 - [ ] [Chatbot Feedback](demo/chatbot_feedback/run.py)
 - [ ] [Chatbot Nested Thoughts](demo/chatbot_nested_thoughts/run.py)
 - [ ] [Chatbot Reasoning Tags](demo/chatbot_reasoning_tags/run.py)
-- [ ] [Chatbot Retry Undo Like](demo/chatbot_retry_undo_like/run.py)
 - [ ] [Chatbot Thoughts](demo/chatbot_thoughts/run.py)
 - [ ] [Chatbot With Tools](demo/chatbot_with_tools/run.py)
 - [ ] [Chatinterface Artifacts](demo/chatinterface_artifacts/run.py)
